@@ -1,3 +1,4 @@
+package basic;
 
 public class identifier {
 
@@ -12,6 +13,8 @@ public class identifier {
 //int 700 = 365;(X)
 	//int 7number = 7;(x)
 	int number8 = 8;
+	
+	
 	
 	//3. 식별자 이름에 공백을 포함할 수는 없다.
 	// int my birthday = 19921013;
